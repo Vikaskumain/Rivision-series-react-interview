@@ -6,3 +6,4 @@
 - and handle to api fethcing data how to show the ui
 - memo hook how can i reduce expencive caluclation and why use it useMemo hook
 - how to make a header and how to toggle btn and add one more feature how to dark mode work 
+# Today tsk create a table and fetch the api and create two buttons which is working on a decending and accending orders 

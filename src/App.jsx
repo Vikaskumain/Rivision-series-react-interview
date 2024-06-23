@@ -8,6 +8,7 @@ import Login from "./Components/login"
 import { Higherorder } from "./Components/Higherorderfunction/Higherorder"
 import Usememo from "./Components/UseMemo/Usememo"
 import Reacthook from "./Components/hookfrom/Reacthook"
+import Table from "./Components/Tableformapi/Tabel"
 // import PrimeChecker from "./Components/UseMemo/primeno"
 // import PrimeNumbers from "./Components/UseMemo/primeno"
 
@@ -23,6 +24,7 @@ function App() {
      <Higherorder/>
      <Usememo/>
      <Reacthook/>
+     <Table/>
     {/* <PrimeNumbers/> */}
     </div>
   )

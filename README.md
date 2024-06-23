@@ -5,5 +5,6 @@
 - Formik Library used to from 
 - and handle API fetching data on how to show the UI
 - memo hook how can I reduce expensive calculations and why use it useMemo hook
-- how to make a header and how to toggle btn and add one more feature how to dark mode work
-- 
+- how to make a header and how to toggle button and add one more feature how to dark mode work
+  
+  # Create a table and show the data on UI for  the fetch function the API and 2 methods are included  one is you can see descending and Accending order
